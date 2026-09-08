@@ -1,0 +1,5 @@
+file,bytes,sha256,entropy_bits_per_byte,ones_percent,printable_ascii_percent,divisible_by_16,blocks_16,unique_16_blocks,repeated_16_blocks,pkcs7_guess,repeated_2byte_overlapping,repeated_3byte_overlapping,repeated_4byte_overlapping,repeated_8byte_overlapping,repeated_16byte_overlapping
+InternshipVIII_T001.bin,48,847e0a43f28c95a759c7e54427923415f1ef01bbe34be986263187b6512110aa,5.5433,48.96,41.67,True,3,3,0,no obvious PKCS#7 padding,0,0,0,0,0
+InternshipVIII_T002.bin,48,7e96438a364fa006afc52e739ebf62d68743f8c4838c6b79d685566314cca380,5.4026,47.66,39.58,True,3,3,0,no obvious PKCS#7 padding,0,0,0,0,0
+InternshipVIII_T003.bin,96,3f196fa1efcc6e3c2ff0e38490dac4559e15c9130af93500fe257bfc55228c77,6.2072,50.91,42.71,True,6,6,0,no obvious PKCS#7 padding,0,0,0,0,0
+InternshipVIII_T004.bin,560,52273087651d7e38311fc64bb38a662552a12e267f9a42e7a5209649f0ead59b,7.6198,50.2,37.68,True,35,35,0,no obvious PKCS#7 padding,1,0,0,0,0

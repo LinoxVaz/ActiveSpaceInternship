@@ -1,0 +1,7 @@
+file_a,file_b,bytes_a,bytes_b,compared_prefix_bytes,equal_byte_positions,equal_byte_percent,hamming_distance_bits,hamming_distance_percent,xor_entropy,xor_printable_ascii_percent,same_position_16_blocks,shared_16_block_values
+InternshipVIII_T001.bin,InternshipVIII_T002.bin,48,48,48,0,0.0,193,50.26,5.4183,27.08,0,0
+InternshipVIII_T001.bin,InternshipVIII_T003.bin,48,96,48,0,0.0,189,49.22,5.4183,45.83,0,0
+InternshipVIII_T001.bin,InternshipVIII_T004.bin,48,560,48,1,2.08,189,49.22,5.4183,35.42,0,0
+InternshipVIII_T002.bin,InternshipVIII_T003.bin,48,96,48,0,0.0,172,44.79,5.5433,37.5,0,0
+InternshipVIII_T002.bin,InternshipVIII_T004.bin,48,560,48,0,0.0,194,50.52,5.335,45.83,0,0
+InternshipVIII_T003.bin,InternshipVIII_T004.bin,96,560,96,1,1.04,376,48.96,6.2776,41.67,0,0
